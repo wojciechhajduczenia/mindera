@@ -29,8 +29,8 @@ CentOS Linux release 7.5.1804 (Core)
  - to run the tests, type: python mindera_code_test.py
  
  ## Expected result 
- ### - images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
- ### - command output:
+ ###  - images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
+ ###  - command output:
  
  *Amount of elements in the list:6*
  
