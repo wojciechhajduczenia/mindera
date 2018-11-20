@@ -4,7 +4,7 @@
 
 CentOS Linux release 7.5.1804 (Core) 
 
-###Additional packages packages installed:
+### Additional packages packages installed:
   - chromium
   - chromedriver
   - python
@@ -13,22 +13,22 @@ CentOS Linux release 7.5.1804 (Core)
   - Xorg
   - selenium standalone server
  
- ###XVFB configuration:  
+ ### XVFB configuration:  
  
  su username -c /usr/bin/Xvfb :99 -ac -screen 0 1280x1024x24 -nolisten tcp &gt
  
- ###Selenium standalone server configuration: 
+ ### Selenium standalone server configuration: 
  
 
  su $user -c /usr/bin/java -jar selenium_server_locstion -host 127.0.0.1 &gt
  
- ##To run:
+ ## To run:
  - download packages from this repository and place them in your folder
  - be sure to have sufficient permissions to start browser (chrome in this case) from command line ie.:/usr/bin/chromium-browser
  - fill in variable pointing to chrome webdriver location in python file: path = ''
  - to run the tests, type: python mindera_code_test.py
  
- ##Expected result 
+ ## Expected result 
  ###- images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
  ###- command output:
  
