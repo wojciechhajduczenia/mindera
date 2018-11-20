@@ -28,7 +28,9 @@ Additional packages packages installed:
  - be sure to have sufficient permissions to start browser (chrome in this case) from command line ie.:/usr/bin/chromium-browser
  - to run the tests, type: python mindera_code_test.py
  
- Expected result command output:
+ Expected result 
+ - images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
+ - command output:
  
  Amount of elements in the list:6
  
