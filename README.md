@@ -28,47 +28,86 @@ Additional packages packages installed:
  - be sure to have sufficient permissions to start browser (chrome in this case) from command line ie.:/usr/bin/chromium-browser
  - to run the tests, type: python mindera_code_test.py
  
- Expected result:
+ Expected result command output:
  
  Amount of elements in the list:6
+ 
 Item 5
+
 Item 4
+
 Item 3
+
 Item 1
+
 Item 2
+
 Item 0
+
 ['Item 5', 'Item 4', 'Item 3', 'Item 1', 'Item 2', 'Item 0']
+
 ['Item 0', 'Item 1', 'Item 2', 'Item 3', 'Item 4', 'Item 5']
+
 element to drag:Item 0
+
 source...................
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 destination........................... 
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 element to drag:Item 1
+
 source...................
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-4")>
+
 destination........................... 
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 element to drag:Item 2
+
 source...................
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-4")>
+
 destination........................... 
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 element to drag:Item 3
+
 source...................
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-3")>
+
 destination........................... 
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 element to drag:Item 4
+
 source...................
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-2")>
+
 destination........................... 
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 element to drag:Item 5
+
 source...................
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-1")>
+
 destination........................... 
+
 <selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+
 
  
  
