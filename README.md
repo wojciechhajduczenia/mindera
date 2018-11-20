@@ -30,83 +30,83 @@ Additional packages packages installed:
  ###- images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
  ###- command output:
  
- *Amount of elements in the list:6
+ *Amount of elements in the list:6*
  
-Item 5
+*Item 5*
 
-Item 4
+*Item 4*
 
-Item 3
+*Item 3*
 
-Item 1
+*Item 1*
 
-Item 2
+*Item 2*
 
-Item 0
+*Item 0*
 
-['Item 5', 'Item 4', 'Item 3', 'Item 1', 'Item 2', 'Item 0']
+*['Item 5', 'Item 4', 'Item 3', 'Item 1', 'Item 2', 'Item 0']*
 
-['Item 0', 'Item 1', 'Item 2', 'Item 3', 'Item 4', 'Item 5']
+*['Item 0', 'Item 1', 'Item 2', 'Item 3', 'Item 4', 'Item 5']*
+**
+*element to drag:Item 0*
 
-element to drag:Item 0
+*source...................*
 
-source...................
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+*destination........................... *
 
-destination........................... 
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+*element to drag:Item 1*
 
-element to drag:Item 1
+*source...................*
 
-source...................
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-4")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-4")>
+*destination........................... *
 
-destination........................... 
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+*element to drag:Item 2*
 
-element to drag:Item 2
+*source...................*
 
-source...................
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-4")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-4")>
+*destination........................... *
 
-destination........................... 
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+*element to drag:Item 3*
 
-element to drag:Item 3
+*source...................*
 
-source...................
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-3")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-3")>
+*destination........................... *
 
-destination........................... 
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+*element to drag:Item 4*
 
-element to drag:Item 4
+*source...................*
 
-source...................
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-2")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-2")>
+*destination........................... *
 
-destination........................... 
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+*element to drag:Item 5*
 
-element to drag:Item 5
+*source...................*
 
-source...................
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-1")>*
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-1")>
+*destination........................... *
 
-destination........................... 
-
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
+*<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
 
  
