@@ -1,8 +1,5 @@
-# mindera
-desafio1
-
-Fill in variable pointing to chrome webdriver location: path = ''
-
+# mindera desafio1
+## environment preparation required
 OS used for dev: CentOS Linux release 7.5.1804 (Core) 
 
 Additional packages packages installed:
@@ -23,16 +20,17 @@ Additional packages packages installed:
 
  su $user -c /usr/bin/java -jar selenium_server_locstion -host 127.0.0.1 &gt
  
- To run:
+ ##To run:
  - download packages from this repository and place them in your folder
  - be sure to have sufficient permissions to start browser (chrome in this case) from command line ie.:/usr/bin/chromium-browser
+ - fill in variable pointing to chrome webdriver location in python file: path = ''
  - to run the tests, type: python mindera_code_test.py
  
- Expected result 
- - images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
- - command output:
+ ##Expected result 
+ ###- images saved to folder showing pre- and post segregation state saved as "before.png" and "after.png" respectively
+ ###- command output:
  
- Amount of elements in the list:6
+ *Amount of elements in the list:6
  
 Item 5
 
@@ -108,7 +106,7 @@ source...................
 
 destination........................... 
 
-<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>
+<selenium.webdriver.remote.webelement.WebElement (session="774461b0a222dd550fb3a522a7ec864a", element="0.7343893415416458-6")>*
 
 
  
