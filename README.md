@@ -1,8 +1,10 @@
 # mindera desafio1
 ## environment preparation required
-OS used for dev: CentOS Linux release 7.5.1804 (Core) 
+###OS used for dev
 
-Additional packages packages installed:
+CentOS Linux release 7.5.1804 (Core) 
+
+###Additional packages packages installed:
   - chromium
   - chromedriver
   - python
@@ -11,11 +13,11 @@ Additional packages packages installed:
   - Xorg
   - selenium standalone server
  
- XVFB configuration:  
+ ###XVFB configuration:  
  
  su username -c /usr/bin/Xvfb :99 -ac -screen 0 1280x1024x24 -nolisten tcp &gt
  
- Selenium standalone server configuration: 
+ ###Selenium standalone server configuration: 
  
 
  su $user -c /usr/bin/java -jar selenium_server_locstion -host 127.0.0.1 &gt
